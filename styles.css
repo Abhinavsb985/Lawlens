@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 1s ease-in-out; /* Smooth transition */
+
+  }
+  
+  .content {
+    color: white;
+    text-align: center;
+    padding-top: 20%;
+  }
+  
+  h1 {
+    font-size: 3em;
+  }
